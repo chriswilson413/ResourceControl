@@ -1,0 +1,7 @@
+name: Bukkit Test
+main: me.chriswilson413.main.Plugin
+version: 0.01
+commands:
+  example:
+    description: This is the description of the command
+    usage: "Prints how the plugin is used"
